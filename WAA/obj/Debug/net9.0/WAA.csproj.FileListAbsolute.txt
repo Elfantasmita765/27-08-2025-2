@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\27-08-2025-2\WAA\bin\Debug\net9.0\WAA.exe
+C:\Users\PC\Desktop\27-08-2025-2\WAA\bin\Debug\net9.0\WAA.deps.json
+C:\Users\PC\Desktop\27-08-2025-2\WAA\bin\Debug\net9.0\WAA.runtimeconfig.json
+C:\Users\PC\Desktop\27-08-2025-2\WAA\bin\Debug\net9.0\WAA.dll
+C:\Users\PC\Desktop\27-08-2025-2\WAA\bin\Debug\net9.0\WAA.pdb
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.AssemblyInfo.cs
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.sourcelink.json
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.dll
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\refint\WAA.dll
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.pdb
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\WAA.genruntimeconfig.cache
+C:\Users\PC\Desktop\27-08-2025-2\WAA\obj\Debug\net9.0\ref\WAA.dll
